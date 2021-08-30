@@ -1,2 +1,2 @@
 # Tutor-Pengolahan-Data-Kelas-B
-### Pengolahan data adalah ...............................................................
+## Selamat datang teman-teman! Berbagai materi tutor beserta video akan di share dalam link github ini!
